@@ -3,4 +3,6 @@ RUN apk add --no-cache \
   bash~=5.2 \
   git~=2.43 \
   jq~=1.7 \
+  python3~=3.11 \
+  yamllint~=1.33 \
   yq~=4.35
